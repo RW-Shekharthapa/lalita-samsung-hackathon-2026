@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+target/
+bin/
+obj/
+dist/
+.next/
+.angular/
+.env
+__pycache__/
+.ultron-ready
